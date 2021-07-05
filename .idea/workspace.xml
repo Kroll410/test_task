@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f4eecc-2ded-4334-9b0b-ff2fbbd19669" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_task/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_task/service/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
@@ -18,11 +14,6 @@
       <change beforePath="$PROJECT_DIR$/frontend/src/components/Table/Table.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/components/Table/Table.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_task/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_task/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_task/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_task/service/crud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_task/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_task/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_task/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_task/api/rest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_task/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_task/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
