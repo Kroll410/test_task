@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from test_task import rest
+from test_task.api import rest
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('users/', rest.UserView.as_view()),
     path('groups/', rest.GroupView.as_view()),
 ]
+
